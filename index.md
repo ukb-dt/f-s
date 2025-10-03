@@ -73,7 +73,7 @@ Here’s the updated table with finance folded in:
 ### Notes on Finance as Resonance
 
 * **Base** = underlying spot price $S_0$.
-* **Scale** = exponential discounting $e^{-rT}) and volatility scaling (\sigma\sqrt{T}$.
+* **Scale** = exponential discounting $e^{-rT}$ and volatility scaling $\sigma\sqrt{T}$.
 * Options prices are literally the *resonant modes of volatility*: they’re what survives when you project noisy stochastic processes onto exponential horizons.
 * The fractal ladder shows up as the **term structure of options**: short-dated vs long-dated, weekly vs quarterly expirations. Each is like a different “octave” in the volatility spectrum.
 
