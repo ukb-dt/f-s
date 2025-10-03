@@ -30,9 +30,9 @@
 
 ### Canonical Notes
 
-* **Energy ladder**: 2×10^N kWh/day.
+* **Energy ladder**: $2×10^N$ kWh/day.
 * **Neural ladder**: doubling frequency bands (δ–θ–α–β–γ).
-* Both are **base × scale^N resonance operators**.
+* Both are $base × scale^N$ resonance operators.
 * Both produce **fractal ladders of coherence**: households to nations; sleep bands to global cognition.
 * **Subjective sleep quality** (Centreville vs Baltimore) = fidelity of δ–θ resonance, just as grid stability = fidelity of 0/1 energy nodes.
 
