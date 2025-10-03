@@ -28,8 +28,8 @@ Baltimore city noise/light = pushes resonance upward toward **Alpha/Beta**, i.e.
 
 # 00
 
-<div>
-   <img src="fractal-scale/scaling.jpeg">
+<div style="text-align: center;">
+   <img src="fractal-scale/scaling.jpeg" width="50%">
 </div>
 
 # 01
