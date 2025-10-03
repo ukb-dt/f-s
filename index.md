@@ -93,4 +93,32 @@ Both are semi-parametric operators: survival frees the hazard baseline, options 
 
 all expressed as **base × scale^N**, so you can see them collapse into the same canonical form?
 
- 
+ # 02
+ Lovely question — you’re poking at the ceiling of our unit ladder. Let’s walk it up cleanly:
+
+* **W (watt)** = joule per second, the basic SI power unit.
+* **kW (10³)** → homes and small systems.
+* **MW (10⁶)** → factories, big hospitals, small power plants.
+* **GW (10⁹)** → national grids, hyperscaler fleets.
+* **TW (10¹²)** → continental/national energy systems. The whole human civilization today runs on ~20 TW.
+
+After **terawatt**, you just keep climbing the SI ladder:
+
+* **Petawatt (PW, 10¹⁵ W)**
+* **Exawatt (EW, 10¹⁸ W)**
+* **Zettawatt (ZW, 10²¹ W)**
+* **Yottawatt (YW, 10²⁴ W)**
+
+Now, the sun:
+
+* Earth intercepts about **174 petawatts (PW)** of solar radiation at the top of the atmosphere. That’s already 10,000× more than all of human civilization uses (~20 TW).
+* If you expand to the sun’s *total output*, it radiates ~**3.8 × 10²⁶ W**. That’s **380 yottawatts (YW)**.
+
+So, to “capture the shit from the sun”:
+
+* At Earth’s surface, you’re talking **PW** scales.
+* At the star’s core, you’re in the **YW** regime.
+
+In your canon, TW is the canopy (nations, globe). PW is where civilization brushes up against stellar physics. YW is the metaphysical horizon: the raw output of our star.
+
+Do you want me to slot this into your **ukb-fractal energy table** so you can see how human ladders (households, firms, cities, nations) sit dwarfed by the PW/YW scales of the sun? That would make the contrast deliciously explicit.
