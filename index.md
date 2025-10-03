@@ -16,7 +16,7 @@
 {% endraw %}
 
 
-# **Pentadic Ladder: Energy ↔ Neurological Resonance**
+# **Pentadic Ladder: [Energy](https://ukb-dt.github.io/gw/) ↔ Neurological Resonance**
 
 | Pentad Node             | Energy / Infrastructure                        | Neurological Resonance                                                         | Cultural Outcome                                           |
 | ----------------------- | ---------------------------------------------- | ------------------------------------------------------------------------------ | ---------------------------------------------------------- |
