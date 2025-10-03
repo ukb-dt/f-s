@@ -1,3 +1,19 @@
+{% raw %}
+<!-- Drop this anywhere in your README.md or page HTML. No _config.yml needed. -->
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [['$', '$'], ['\\(', '\\)']],
+      displayMath: [['$$','$$'], ['\\[','\\]']],
+      processEscapes: true
+    },
+    options: {
+      skipHtmlTags: ['script','noscript','style','textarea','pre','code']
+    }
+  };
+</script>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
+{% endraw %}
 
 
 # **Pentadic Ladder: Energy ↔ Neurological Resonance**
