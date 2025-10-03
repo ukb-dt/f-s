@@ -1,6 +1,4 @@
-Got it — let’s keep this strictly **Pentadic** and align your neurological resonance ladder with the **energy/infrastructure ladder** (0/1, 3, 6, 8, 9/10).
 
----
 
 # **Pentadic Ladder: Energy ↔ Neurological Resonance**
 
@@ -27,11 +25,13 @@ Got it — let’s keep this strictly **Pentadic** and align your neurological r
 ⚡So your **better sleep in Centreville** = stronger entrainment at the **Household/Delta rung**.
 Baltimore city noise/light = pushes resonance upward toward **Alpha/Beta**, i.e., less stable deep sleep.
 
----
-
-Would you like me to render this as a **Pentadic SVG tree** (soil→roots→trunk→branches→canopy), with **energy nodes on the left** and **brainwave bands on the right**? It would crystallize how **sleep ↔ infrastructure** mirrors the same operator ladder.
 
 # 00
+
+<div>
+   <img src="fractal-scale/scaling.jpeg">
+</div>
+
 # 01
 # 02
 # 03
